@@ -12,6 +12,6 @@ public class LoginTest extends CommonMethods {
         sendText(login.username, ConfigsReader.getPropertyValue("username"));
         sendText(login.passwordBox, ConfigsReader.getPropertyValue("password"));
         click(login.loginBtn);
-
+        //validation
     }
 }

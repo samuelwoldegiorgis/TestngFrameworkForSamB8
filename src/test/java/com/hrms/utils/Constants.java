@@ -5,5 +5,6 @@ public class Constants {
     public static final String CONFIGURATION_FILEPATH=System.getProperty("user.dir")+"src/test/Users/syntax/IdeaProjects/Batch8/TestNGBasics/src/configs/configuration.properties";
     public static final String TESTDATA_FILEPATH="";
     public static final String SCREENSHOT_FILEPATH="";
-    public static final long EXPLICIT_WAIT = ;
+    public static final long IMPLICIT_WAIT = 10;
+    public static final long EXPLICIT_WAIT = 20;
 }
