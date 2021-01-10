@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0003d3ed-3579-4ba1-94b5-404fcb68a3da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/config/.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestngFrameworkFirst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class01/firstSeleniumClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/LocatingElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/TaskOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/WebOrdersTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/ClearCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/CssSelectorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/ElementCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/GetAllLinksFromEbay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class05/CheckBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class05/HandlingDropdowns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class06/HandlingAlerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class06/HandlingFrames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/AdvancedWindowHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/ImplicitWaitDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/SimpleWindowsHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class08/ExplicitWaitHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class08/FluentWaitDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/HandlingCalendars1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/HandlingPagination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/WebTablesWithPagination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/firstSeleniumClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/seleniumReviewClass03/AlertReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/seleniumReviewClass03/FrameReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/utils/CommonMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/utils/ConfigsReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/Notes/ClassNote10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/HandlingCalendars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/HandlingPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/WebTablesWithPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/CalendarHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/DragAndDropDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/WorkingWithKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class11/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class11/JSExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class11/RightAndDoubleClickActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/pages/LoginPageWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/test/LoginTestWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/testbase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/utils/ConfigsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/out/production/Testng8Batch/class02/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Testng8Batch/out/production/Testng8Batch/class02/HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class01/Logintest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class01/PreAndPostConditioinAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class01/TestNGIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class01/Testng.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class02/DependOnDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class02/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/src/class02/SoftAssertionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng8Batch/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testng8Batch/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.seleniumBEight/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class01/firstSeleniumClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/LocatingElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/Recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/TaskOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/WebOrdersTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class04/ClearCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class04/CssSelectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class04/ElementCommands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class04/GetAllLinksFromEbay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class05/CheckBoxDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class05/HandlingDropdowns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class06/HandlingAlerts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class06/HandlingFrames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/firstSeleniumClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/seleniumReviewClass03/AlertReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/seleniumReviewClass03/FrameReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/seleniumBEight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.seleniumBEight/seleniumBEight.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mq5kEEddN6aYLIZNpW11bIOaST" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestngFrameworkFirst\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CommonMethods.test (1)">
+    <configuration name="CommonMethods.test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestngFrameworkFirst" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hrms.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.utils.CommonMethods" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestngFrameworkFirst" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonMethods.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestngFrameworkFirst" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hrms.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.utils.CommonMethods" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestngFrameworkFirst" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CommonMethods.test" />
+      <item itemvalue="TestNG.CommonMethods.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CommonMethods.test (1)" />
+        <item itemvalue="TestNG.CommonMethods.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0003d3ed-3579-4ba1-94b5-404fcb68a3da" name="Default Changelist" comment="" />
+      <created>1610208429378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610208429378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestngFrameworkFirst$CommonMethods_test__1_.ic" NAME="CommonMethods.test (1) Coverage Results" MODIFIED="1610216945732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hrms.utils.*</FILTER>
+    </SUITE>
+  </component>
+</project>
